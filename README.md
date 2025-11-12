@@ -1,16 +1,5 @@
-# labs1
+Лабораториска вежба 1
+Распоред за испити 223077 - Flutter апликација
 
-A new Flutter project.
+Апликацијата прикажува листа на испити во форма на картички, каде секоја картичка ги прикажува името на предметот, датумот и времето на испитот и просториите, додека на дното на екранот се прикажува вкупниот број на испити, а боите на картичките го означуваат дали испитот е поминат или сеуште не.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
